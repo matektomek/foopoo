@@ -1,0 +1,2 @@
+# foopoo
+Simple fun project
