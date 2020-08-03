@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 
+### IntelliJ IDEA but not these files ###
+!.idea/workspace.xml
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
